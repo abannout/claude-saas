@@ -20,9 +20,27 @@ Good sources of "new problems":
 2. **Immature market**: no dominant solution. Name the existing competitors and explain why they don't cover this audience well.
 3. **Specific audience**: a named niche you could list 100 potential customers from.
 4. **Solo-buildable**: a credible MVP in 10 weeks or less for one CS student, with no need for huge datasets, hardware, or licenses up front.
-5. **Reachable**: a concrete go-to-market channel, such as a community, association, directory, marketplace, or outbound list.
+5. **Reachable WITHOUT cold outreach**: the founder will NOT do cold calls or cold emails. The channel must be inbound: social media, communities, marketplaces or app stores, integrations, or SEO. See "Founder's marketing constraints" below.
 6. **Willingness to pay**: budget exists and the cost of the problem clearly exceeds the price. Give a realistic price point.
 7. **Not trivially killed**: won't be wiped out by a single feature release from OpenAI, Google, Shopify, Microsoft, and the like, or there is a clear reason to move now anyway.
+
+8. **Content-led marketing fit**: the product should naturally produce shareable content, so the founder can market it by posting it (see below).
+
+## Founder's marketing constraints (added by the founder mid-debate)
+- **No cold calling and no cold emailing, ever.**
+- **The main channel is social media, with the founder using the product publicly.** The product's own output becomes the content. Example from the founder: "if it's an app-research tool, I screenshot it and post 'here are the best apps today, the fastest-growing apps this week'". So strong ideas are ones where the product generates screenshot-worthy insights, rankings, before/after results, or data stories on its own (TikTok, Instagram, X, LinkedIn, Reddit, YouTube Shorts).
+- **SEO for the long term**: programmatic SEO, free tools and calculators, data pages.
+- **Paid ads only after the first roughly €1k in revenue.**
+- Better strategies are welcome. For each surviving idea, propose the best-fitting inbound strategy, for example:
+  - a free tool as a lead magnet
+  - programmatic SEO pages
+  - a public leaderboard or index
+  - a weekly data newsletter
+  - marketplace or app-store listings (Shopify App Store, Chrome Web Store, WordPress.org, Atlassian, MCP directories)
+  - integration partnerships
+  - templates
+  - community-led growth
+  - viral loops such as "made with" badges or shared reports
 
 ## Process and files
 All debate files live in `/home/user/claude-saas/research/debate/`.
