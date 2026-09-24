@@ -34,6 +34,11 @@ Good sources of "new problems":
 - Criterion 7 (platform risk) still matters, but judge it as "will this survive long enough to reach meaningful revenue?", not "is there a deep moat?". Speed and distribution can beat a moat early on.
 - Every surviving idea must get two scores (1-10): **Chance of success** (reaching the first €1k-€10k MRR) and **Scale potential** (ceiling if it works).
 
+## Geography (added by the founder mid-debate)
+- **Global is the default.** The founder wants SaaS that can be sold worldwide (English-first, or easy to localize), not only in Germany or the EU.
+- **Germany/EU-only is acceptable only when it's clearly the better opportunity**, for example a much higher chance of success thanks to the home advantage, the language, or a local law. In that case, say explicitly why the local version beats a global one, and whether it can expand later (for example DACH → EU → global, or a German law → the same pattern in other countries).
+- When judging Scale, a purely German idea caps lower unless there's a credible expansion path.
+
 ## Founder's marketing constraints (added by the founder mid-debate)
 - **No cold calling and no cold emailing, ever.**
 - **The main channel is social media, with the founder using the product publicly.** The product's own output becomes the content. Example from the founder: "if it's an app-research tool, I screenshot it and post 'here are the best apps today, the fastest-growing apps this week'". So strong ideas are ones where the product generates screenshot-worthy insights, rankings, before/after results, or data stories on its own (TikTok, Instagram, X, LinkedIn, Reddit, YouTube Shorts).
