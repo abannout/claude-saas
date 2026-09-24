@@ -26,6 +26,14 @@ Good sources of "new problems":
 
 8. **Content-led marketing fit**: the product should naturally produce shareable content, so the founder can market it by posting it (see below).
 
+## Founder's priority (added by the founder mid-debate)
+> "Even if it's an API wrapper or a simple platform/app, the most important thing is my chance of doing it and scaling it."
+
+- A **simple product or thin wrapper is fine**. Don't reject an idea just because it's "only a wrapper" or technically easy. Low build complexity is a plus, because it means a faster launch.
+- The **primary ranking metric** is the **probability that this founder reaches real revenue** (for example €1k, then €10k MRR) **and can scale it**: a large enough audience, room to expand to adjacent niches or countries, and repeatable inbound growth.
+- Criterion 7 (platform risk) still matters, but judge it as "will this survive long enough to reach meaningful revenue?", not "is there a deep moat?". Speed and distribution can beat a moat early on.
+- Every surviving idea must get two scores (1-10): **Chance of success** (reaching the first €1k-€10k MRR) and **Scale potential** (ceiling if it works).
+
 ## Founder's marketing constraints (added by the founder mid-debate)
 - **No cold calling and no cold emailing, ever.**
 - **The main channel is social media, with the founder using the product publicly.** The product's own output becomes the content. Example from the founder: "if it's an app-research tool, I screenshot it and post 'here are the best apps today, the fastest-growing apps this week'". So strong ideas are ones where the product generates screenshot-worthy insights, rankings, before/after results, or data stories on its own (TikTok, Instagram, X, LinkedIn, Reddit, YouTube Shorts).
