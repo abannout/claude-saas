@@ -55,3 +55,22 @@ What *can* reach about 8/10 on the **first €1k** is **"service first, software
 1. **Start A this week.** It has the highest chance of first money, and you learn exactly what to productize.
 2. **Run B's content in parallel** (the weekly "Top TikTok Shop DE products" post). If brands message you, add the service.
 3. Keep the earlier `SAAS_OPPORTUNITIES.md` ideas as SaaS options for when you have money and an audience.
+
+---
+
+## D. OnboardingLab (a "RevenueCat for onboarding flows"): verdict KILL as a standalone SaaS, salvage it as part of A
+
+**The idea:** A/B test onboarding from install until the user registers or hits the paywall, with no paywall product of its own.
+
+**Why it's killed (fatal-competition rules a + b):**
+- **[Adapty](https://adapty.io/onboarding-builder/)** already has a no-code onboarding builder with A/B tests for iOS, Android, Flutter, React Native and Unity. On **1 Oct 2026** it [merges onboarding and paywall into one "Flow Builder"](https://adapty.io/docs/paywall-onboarding-builder-deprecation).
+- **[Superwall](https://superwall.com/)** already lets teams test onboarding, paywalls and pricing without a new app build, on subscription infrastructure that's free at any scale.
+- Indie tools exist too: [Onboardsy](https://www.onboardsy.com/) and [OnboardSync](https://www.onboardsync.com/). [Firebase Remote Config A/B testing](https://firebase.google.com/docs/remote-config/abtest-config) is free.
+- **The structural problem:** "no paywall" removes the revenue number that makes these tools worth paying for. The market is bundling onboarding *into* the paywall because revenue is the metric apps optimise for.
+
+**Pivots checked:**
+- **Activation testing for apps without subscriptions** (fintech, marketplaces, health apps where the goal is registration or KYC). This segment is real, but its buyers are larger teams already served by Appcues, Pendo or Firebase. Chance about 2/10.
+- **Web-to-app quiz funnels** before the download. Crowded: FunnelFox, RevenueCat web purchases and others.
+- **App Store page testing** (the pre-install part). Apple's built-in product page optimisation plus SplitMetrics already cover it.
+
+**The best salvage:** add it as a **service upsell to idea A.** Many vibe-coded apps ship with no onboarding or paywall setup. Offer "ShipReady + Monetise": you set up RevenueCat or Superwall/Adapty plus an onboarding A/B test for €500–1,500 one-off, with an optional monthly retainer to optimise it. You use their free infrastructure instead of competing with it.
